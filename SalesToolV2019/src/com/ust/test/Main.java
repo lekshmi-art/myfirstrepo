@@ -14,7 +14,7 @@ public class Main {
 	}
 	private static void displayGreeting(){
 		System.out.println("Hello..");
-		System.out.println("second done");
+		System.out.println("sec done");
 	}
 
 }
